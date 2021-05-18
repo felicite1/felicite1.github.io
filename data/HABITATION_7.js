@@ -1,0 +1,1 @@
+var json_HABITATION_7 = {"type":"FeatureCollection","name":"HABITATION_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAME":"Bayanga","LONGITUDE":16.262500762999998,"LATITUDE":2.9026649,"TRUE_POP_S":null,"html":null},"geometry":{"type":"Point","coordinates":[16.262500762939453,2.90266489982605]}}]}
